@@ -1,3 +1,5 @@
+Student name- Navjot Kaur
+Student ID- 100413123
 Good quote
                                                                  
 It is a small software application in which users will get to read various motivational, deep, inspiring and positive quotes that they can apply in their daily life use.
