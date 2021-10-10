@@ -3,3 +3,7 @@ Good quote
 It is a small software application in which users will get to read various motivational, deep, inspiring and positive quotes that they can apply in their daily life use.
 Energize users and gives them insight to move forward in their lives.
 Brings positivity, light, happiness and hopes into people's day.
+
+Project functions
+Users can sign up or login to the website. Everyday a notification will pop up on their screen telling a quote, users can set the time when they want to read the quote (for example most people prefer in morning in order to start their in brightened way)and also the frequency, how often they want the notification of the quote( for example every 4 hours or every 8 hours). 
+This website also offers a option to the users to select the kind of quotes they want to read. After choosing their preference, the users can read as many quotes as they want related to the kind  they selected. Users can read life related quotes, motivational quotes, positive quotes, deep quotes, inspiring quotes. 
